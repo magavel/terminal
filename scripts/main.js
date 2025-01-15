@@ -90,7 +90,7 @@ async function getInputValue(){
     }
     else if(value === "social -a"){
         trueValue(value);
-        createText("<a href='https://github.com/y-magavel' target='_blank'><i class='fab fa-github white'></i> github.com/y-magavel</a>")
+        createText("<a href='https://github.com/magavel' target='_blank'><i class='fab fa-github white'></i> github.com/magavel</a>")
         createText("<a href='https://www.linkedin.com/in/magavel/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/magavel</a>")
     }
     else if(value === "social"){
